@@ -3,4 +3,7 @@ German keyboard layout for the k380 for mac keyboard. Under windows, using this 
 i used microsoft keyboard layout creator 1.4 to create a custom keyboard layout, removing the sticky ^ key, because you otherwise couldnt use the <> keys normally. 
 to use it, just click on setup.exe and reboot your pc if it doesnt show up. if you also use normal keyboards, add a second language (i used german (austria) for example), and then add the keyboard (ususally named Deutsch -Custom or something). 
 if you then want to switch, use the windows and space keys.
+this is what the layout looks like. if you wish to change anything, open the .klc file in the keyboard layout creator 1.4 with load source file. to "compile" the keyboard use package as dll. the layout looks like this:
 ![alt text](https://raw.githubusercontent.com/SimonBauer-git/k380mac_windows_layout/refs/heads/main/k380mac.jpg)
+the layout creator:
+https://www.microsoft.com/en-us/download/details.aspx?id=102134
